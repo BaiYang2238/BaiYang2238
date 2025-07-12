@@ -18,4 +18,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiYang2238&layout=compact&hide_border=true&title_color=ffa000" />
 
-Avatar: [www.pixiv.net/artworks/109039478](www.pixiv.net/artworks/109039478)
+Avatar: [www.pixiv.net/artworks/109039478](https://www.pixiv.net/artworks/109039478)
