@@ -10,8 +10,10 @@
                 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaiYang2238&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
             </td>
             <td>
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiYang2238&layout=compact&hide_border=true&title_color=ffa000" />
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaiYang2238" />
             </td>
         </tr>
     </table>
 </a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiYang2238&layout=compact&hide_border=true&title_color=ffa000" />
