@@ -1,7 +1,7 @@
 # BaiYang2238's README
 ![Profile Views](https://komarev.com/ghpvc/?username=BaiYang2238&color=red)
 
-<img width="100px" src="https://github.githubassets.com/images/mona-loading-default.gif" align="center" alt="Logo" />
+<img align="right" width="100px" src="https://github.githubassets.com/images/mona-loading-default.gif" align="center" alt="Logo" />
 
 <a href="https://github.com/BaiYang2238">
 
